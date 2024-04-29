@@ -8,7 +8,7 @@ POWERFUL MUSIC BOT
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/99af814416094f7390e84.png">
+  <img src="https://telegra.ph/file/ca3507b28c6f7a98aa214.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴏʟɪᴠɪᴀ ✘ ᴍᴜsɪᴄ]([https://t.me/VIVIVIVVIV2]
