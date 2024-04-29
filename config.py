@@ -18,10 +18,10 @@ START_IMG = getenv("START_IMG", "https://telegra.ph/file/ca3507b28c6f7a98aa214.j
 
 SESSION = getenv("SESSION", None)
 
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/F_U_01")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/F_U_01")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/VIVIVIVVIV2")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/VIVIVIVVIV2")
 
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6776871146").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6878497585").split()))
 
 
 FAILED = "https://telegra.ph/file/ca3507b28c6f7a98aa214.jpg"
